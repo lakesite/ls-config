@@ -11,7 +11,7 @@ if this environment variable is not set.
 ...
 
 import (
-  "github.com/lakesite/ls-config/pkg/config"  
+  "github.com/lakesite/ls-config"  
 )
 ...
 
